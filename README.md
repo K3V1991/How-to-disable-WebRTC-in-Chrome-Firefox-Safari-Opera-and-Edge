@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/ZSDdK5W/Disable-Web-RTC.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/How-to-disable-WebRTC-in-Chrome-Firefox-Safari-Opera-and-Edge/blob/main/Disable-WebRTC.png" width="200"></a>
 <h1 align="center"><b>How to disable WebRTC in Chrome, Firefox, Safari, Opera & Edge</b></h1>
 <br />
 
