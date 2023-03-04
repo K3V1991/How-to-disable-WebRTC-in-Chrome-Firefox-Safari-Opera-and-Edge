@@ -44,37 +44,37 @@ You can also use browser Extensions if you cannot disable WebRTC.
 <br />
 
 ## Disabling WebRTC in Chrome:
-> You cannot disable WebRTC in Chrome. The only thing you can do is use Add-ons. A good Chrome Add-on is "[WebRTC Leak Prevent](https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml?hl=en)". <br />
+> You cannot disable WebRTC in Chrome. The only thing you can do is use Add-ons. A good Chrome Add-on is [WebRTC Leak Prevent](https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml?hl=en). <br />
 It controls the hidden WebRTC Settings and protects you against the Leaks.
 
 ## Disabling WebRTC in Chrome Mobile
-1. Type this URL: chrome://flags/#disable-webrtc in your Android Chrome Address Bar. It will open a Settings Page
+1. Type this URL: ```chrome://flags/#disable-webrtc``` in your Android Chrome Address Bar. It will open a Settings Page
 2. Scroll down and you’ll find WebRTC STUN Origin Header. You can disable it here
 3. You can even disable WebRTC Hardware Video Encoding and decoding Options if you want
 <br />
 
 ## Disabling WebRTC in Mozilla Firefox:
-1. Go to the URL Bar, type "about:config" and press Enter
-2. Firefox will display a Warning Message. Click on "Accept the Risk and Continue"
-3. It will take you to another Page. In the Search Bar, type: "media.peerconnection.enabled"
+1. Go to the URL Bar, type ```about:config``` and press Enter
+2. Firefox will display a Warning Message. Click on ```Accept the Risk and Continue```
+3. It will take you to another Page. In the Search Bar, type: ```media.peerconnection.enabled```
 4. Double click on the Row and change its Value to "false". Now WebRTC will be disabled.
 <br />
 
 ## Disabling WebRTC on Safari Browser:
-1. On Safari, visit "Preferences"
-2. Check "Show Develop menu in menu bar"
-3. In the Develop Section, go to "Experimental Features"
-4. Click on "Remove Legacy WebRTC API"
+1. On Safari, visit ```Preferences```
+2. Check ```Show Develop menu in menu bar```
+3. In the Develop Section, go to ```Experimental Features```
+4. Click on ```Remove Legacy WebRTC API```
 <br />
 
 ## Disabling WebRTC in Opera:
-> Opera doesn’t have a Way to disable WebRTC. You can use third-party Addons like "WebRTC Leak Prevent" just like you did with Chrome. <br />
+> Opera doesn’t have a Way to disable WebRTC. You can use third-party Addons like ```WebRTC Leak Prevent``` just like you did with Chrome. <br />
 Keep in mind that these Extensions do not fix the Leak. Instead, they block the Attempts the Websites make to collect IP Addresses.
 <br />
 
 ## Disabling WebRTC on Microsoft Edge:
-1. Open Edge and type: "about:flags" in the Address Bar & press Enter
-2. You’ll see WebRTC here. Under that, there’s an Option to hide your real IP Address. Check the Box: "Hide my local IP address over WebRTC connections"" to activate.
+1. Open Edge and type: ```about:flags``` in the Address Bar & press Enter
+2. You’ll see WebRTC here. Under that, there’s an Option to hide your real IP Address. Check the Box: ```Hide my local IP address over WebRTC connections``` to activate.
 <br />
 
 ## How to stay secure:
